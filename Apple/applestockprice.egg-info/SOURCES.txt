@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+applestockprice/applestockprice.py
+applestockprice.egg-info/PKG-INFO
+applestockprice.egg-info/SOURCES.txt
+applestockprice.egg-info/dependency_links.txt
+applestockprice.egg-info/requires.txt
+applestockprice.egg-info/top_level.txt
